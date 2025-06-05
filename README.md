@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/bea8d833-2006-42ec-bef8-1e0bb69e4461)
+
+
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
